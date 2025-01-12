@@ -1,0 +1,13 @@
+{
+  "name": "@academy/compass",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 2502",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "start": "vite --port 2502"
+  }
+}
